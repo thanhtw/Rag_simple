@@ -16,8 +16,8 @@ This project implements a **Retrieval-Augmented Generation (RAG)** pipeline, ena
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/thanhtw/Rag_simple.git
-cd Rag_simple
+git clone https://github.com/thanhtw/rag_simple.git
+cd rag_simple
 ```
 
 ### 2. Install Dependencies
