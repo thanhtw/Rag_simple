@@ -1,0 +1,1 @@
+{"number_docs_retrieval": 3, "embedding_model_name": "all-MiniLM-L6-v2", "columns_to_answer": [], "search_option": "Vector Search", "llm_name": "llama3.2:1b", "llm_type": "local_llm"}
