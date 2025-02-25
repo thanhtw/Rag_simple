@@ -2,7 +2,7 @@
 
 ## Overview
 
-## [Application Screenshot]![Image](https://github.com/user-attachments/assets/cbfcc5bd-7c64-4627-9376-b240ccb3d370)
+## [Application Screenshot]![Image](https://github.com/user-attachments/assets/89c0bcc8-8daf-4543-88b1-d9798f548b34)
 
 This project implements a **Retrieval-Augmented Generation (RAG)** pipeline, enabling users to upload various data files (CSV, JSON, PDF, DOCX), store their content in a **Chroma vector store**, and interact with it via a chatbot. The chatbot is local models accessible through **OLLAMA**, retrieving relevant information and using **Large Language Models (LLMs)** to enhance responses based on user queries.
 
