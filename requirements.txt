@@ -15,4 +15,5 @@ langchain-community==0.3.3
 langchain-google-genai==2.0.1
 networkx
 pyvis==0.3.2
+python-gitlab
 
